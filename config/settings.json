@@ -27,9 +27,9 @@
             "credits": "default"
         },
         "lyrics": {
-            "embed_lyrics": false,
-            "embed_synced_lyrics": false,
-            "save_synced_lyrics": false
+            "embed_lyrics": true,
+            "embed_synced_lyrics": true,
+            "save_synced_lyrics": true
         },
         "covers": {
             "embed_cover": true,
