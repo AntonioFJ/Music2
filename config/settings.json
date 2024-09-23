@@ -22,14 +22,14 @@
             "spatial_codecs": true
         },
         "module_defaults": {
-            "lyrics": "musixmatch",
+            "lyrics": "default",
             "covers": "default",
             "credits": "default"
         },
         "lyrics": {
-            "embed_lyrics": true,
-            "embed_synced_lyrics": true,
-            "save_synced_lyrics": true
+            "embed_lyrics": false,
+            "embed_synced_lyrics": false,
+            "save_synced_lyrics": false
         },
         "covers": {
             "embed_cover": true,
