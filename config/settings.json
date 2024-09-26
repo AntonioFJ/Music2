@@ -69,7 +69,7 @@
     "extensions": {},
     "modules": {
         "musixmatch": {
-            "token_limit": 10,
+            "token_limit": 25,
             "lyrics_format": "standard",
             "custom_time_decimals": false
         },
